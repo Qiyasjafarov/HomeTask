@@ -1,0 +1,14 @@
+C:\Users\qiyas\source\repos\Motored vehicles class\Motored vehicles class\bin\Debug\netcoreapp3.1\Motored vehicles class.exe
+C:\Users\qiyas\source\repos\Motored vehicles class\Motored vehicles class\bin\Debug\netcoreapp3.1\Motored vehicles class.deps.json
+C:\Users\qiyas\source\repos\Motored vehicles class\Motored vehicles class\bin\Debug\netcoreapp3.1\Motored vehicles class.runtimeconfig.json
+C:\Users\qiyas\source\repos\Motored vehicles class\Motored vehicles class\bin\Debug\netcoreapp3.1\Motored vehicles class.runtimeconfig.dev.json
+C:\Users\qiyas\source\repos\Motored vehicles class\Motored vehicles class\bin\Debug\netcoreapp3.1\Motored vehicles class.dll
+C:\Users\qiyas\source\repos\Motored vehicles class\Motored vehicles class\bin\Debug\netcoreapp3.1\Motored vehicles class.pdb
+C:\Users\qiyas\source\repos\Motored vehicles class\Motored vehicles class\obj\Debug\netcoreapp3.1\Motored vehicles class.csproj.AssemblyReference.cache
+C:\Users\qiyas\source\repos\Motored vehicles class\Motored vehicles class\obj\Debug\netcoreapp3.1\Motored vehicles class.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\qiyas\source\repos\Motored vehicles class\Motored vehicles class\obj\Debug\netcoreapp3.1\Motored vehicles class.AssemblyInfoInputs.cache
+C:\Users\qiyas\source\repos\Motored vehicles class\Motored vehicles class\obj\Debug\netcoreapp3.1\Motored vehicles class.AssemblyInfo.cs
+C:\Users\qiyas\source\repos\Motored vehicles class\Motored vehicles class\obj\Debug\netcoreapp3.1\Motored vehicles class.csproj.CoreCompileInputs.cache
+C:\Users\qiyas\source\repos\Motored vehicles class\Motored vehicles class\obj\Debug\netcoreapp3.1\Motored vehicles class.dll
+C:\Users\qiyas\source\repos\Motored vehicles class\Motored vehicles class\obj\Debug\netcoreapp3.1\Motored vehicles class.pdb
+C:\Users\qiyas\source\repos\Motored vehicles class\Motored vehicles class\obj\Debug\netcoreapp3.1\Motored vehicles class.genruntimeconfig.cache

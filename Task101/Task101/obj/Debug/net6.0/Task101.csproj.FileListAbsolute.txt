@@ -1,0 +1,15 @@
+C:\Users\qiyas\source\repos\Task101\Task101\bin\Debug\net6.0\Task101.exe
+C:\Users\qiyas\source\repos\Task101\Task101\bin\Debug\net6.0\Task101.deps.json
+C:\Users\qiyas\source\repos\Task101\Task101\bin\Debug\net6.0\Task101.runtimeconfig.json
+C:\Users\qiyas\source\repos\Task101\Task101\bin\Debug\net6.0\Task101.dll
+C:\Users\qiyas\source\repos\Task101\Task101\bin\Debug\net6.0\Task101.pdb
+C:\Users\qiyas\source\repos\Task101\Task101\obj\Debug\net6.0\Task101.csproj.AssemblyReference.cache
+C:\Users\qiyas\source\repos\Task101\Task101\obj\Debug\net6.0\Task101.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\qiyas\source\repos\Task101\Task101\obj\Debug\net6.0\Task101.AssemblyInfoInputs.cache
+C:\Users\qiyas\source\repos\Task101\Task101\obj\Debug\net6.0\Task101.AssemblyInfo.cs
+C:\Users\qiyas\source\repos\Task101\Task101\obj\Debug\net6.0\Task101.csproj.CoreCompileInputs.cache
+C:\Users\qiyas\source\repos\Task101\Task101\obj\Debug\net6.0\Task101.dll
+C:\Users\qiyas\source\repos\Task101\Task101\obj\Debug\net6.0\refint\Task101.dll
+C:\Users\qiyas\source\repos\Task101\Task101\obj\Debug\net6.0\Task101.pdb
+C:\Users\qiyas\source\repos\Task101\Task101\obj\Debug\net6.0\Task101.genruntimeconfig.cache
+C:\Users\qiyas\source\repos\Task101\Task101\obj\Debug\net6.0\ref\Task101.dll
